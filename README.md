@@ -6,16 +6,19 @@ This repository contains all my tasks, projects, and assignments completed as pa
 
 This repo is created to maintain and submit all internship tasks in one place, as per CodSoft’s instructions.
 
-## 📂 Contents
+# CodSoft Internship - C++ Projects
 
-- Task 1  
-- Task 2  
-- Task 3  
-- ... *(Add your tasks here as you complete them)*
+Hi, I'm Nitin Singh Rajput, and this repository contains my C++ programming tasks completed during the CodSoft Internship (August Batch B43).
 
-## ✅ Submission
+## Completed Projects
 
-I will update this repository regularly and share its link in the task submission form whenever required.
+✅ [Number Guessing Game](./Number_Guessing_Game)  
+✅ [Simple Calculator](./Simple_Calculator)  
+✅ [Tic-Tac-Toe Game](./Tic_Tac_Toe)
+
+Each folder contains:
+- The C++ source code (`.cpp` file)
+- A README with project details
 
 ---
 
